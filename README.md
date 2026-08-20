@@ -57,7 +57,8 @@ Standardized scripts tailored for daily sysadmin tasks:
 **1. Clone the repository:**
 
 ```bash
-git clone [https://github.com/yourusername/linux-automation-toolkit.git](https://github.com/yourusername/linux-automation-toolkit.git)
+git clone [https://github.com/rahulbabar1212/Linux-DevOps-Automation-Native-Monitoring/edit/main/README.md]
+https://github.com/rahulbabar1212/Linux-DevOps-Automation-Native-Monitoring/edit/main/README.md
 cd linux-automation-toolkit
 
 ```
