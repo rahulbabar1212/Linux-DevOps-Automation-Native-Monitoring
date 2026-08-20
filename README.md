@@ -1,10 +1,3 @@
-Here is the adjusted `README.md` tailored specifically for a 1-year DevOps profile.
-
-It removes overly senior buzzwords (like "Chaos Engineering" or "Infrastructure as Code") and replaces them with terminology that highlights strong foundational skills, practical troubleshooting, and a clear eagerness to learn standard DevOps tools.
-
----
-
-```markdown
 # Linux Automation & Monitoring Toolkit
 
 A practical repository demonstrating foundational Linux system administration, automated monitoring, and Bash scripting. This project was built using native OS utilities (Bash, Systemd, Cron, awk, grep) to monitor system health, automatically recover crashed services, and streamline routine operational tasks. 
